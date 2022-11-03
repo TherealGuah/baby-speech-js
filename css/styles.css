@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://images.pexels.com/photos/272056/pexels-photo-272056.jpeg?cs=srgb&dl=pexels-pixabay-272056.jpg&fm=jpg");
+    background-size: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+h1,
+label,
+p {
+    background: #faEbd7ff;
+    margin: 1rem;
+    padding: 0 1rem;
+    border-radius: 0.25rem;
+}
+
